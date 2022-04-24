@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import Card from "./Card";
 import Pokeinfo from "./Pokeinfo";
+import Layout from "./Layout";
 import axios from "axios";
 
 const Main=()=>{

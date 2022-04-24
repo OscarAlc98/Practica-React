@@ -1,5 +1,11 @@
 {
   "dependencies": {
-    "axios": "^0.26.1"
+    "axios": "^0.26.1",
+    "react-router-dom": "^6.3.0",
+    "workbox-core": "^6.5.3",
+    "workbox-expiration": "^6.5.3",
+    "workbox-precaching": "^6.5.3",
+    "workbox-routing": "^6.5.3",
+    "workbox-strategies": "^6.5.3"
   }
 }
